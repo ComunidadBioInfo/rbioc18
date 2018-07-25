@@ -15,7 +15,7 @@ _Responsible_: Yalbi Balderas (yalbibalderas@gmail.com)
 _Link to drive_: https://drive.google.com/drive/folders/1A7oLlsN05ynYTV3cCyv8X5APlVX8l7kK?usp=sharing  
 
 * **Nina Valley**  
-_Responsible_: Alejandra Medina (amedina@liigh.unam.mx) and Gabriel (gabriel@pixelblocks.mx)  
+_Responsible_: Alejandra Medina (amedina@liigh.unam.mx) and Gabriel Balsa (gabriel@pixelblocks.mx)  
 _Link to drive_: https://drive.google.com/drive/folders/1wKmHAUCq7OsYugIQI3RvWVl0F0zWC8Te  
 
 * **Metaboloma**  
