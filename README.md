@@ -40,7 +40,14 @@ The materials are organized by instructor in order of first appearance. For the 
     - Keynote Lecture IV: [slides](), [R file](), [slides raw]().
 * [Teresa Ortíz](http://www.teresa-ortiz.com/eng)
     - RLadies Community Experience: [slides](), [R file](), [slides raw]().
-     
+
+## Installation instructions
+
+1. Install R 3.5 through [CRAN](https://cran.r-project.org/)
+2. Install the latest stable [Rstudio Desktop](https://www.rstudio.com/products/rstudio/download/)
+3. Install the latest stable [git](http://happygitwithr.com/install-git.html)
+4. Connect [Rstudio with git](http://happygitwithr.com/rstudio-git-github.html)
+5. Install the following R packages: `devtools`, `roxygen2`, `Rcpp`, `RcppArmadillo`, `knitr` using the `install.packages()` function. You can also check https://www.bioconductor.org/install/ for more information.
 
 ## Code of conduct
 
