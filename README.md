@@ -10,7 +10,7 @@ Welcome to the repository for the 2018 R/Bioconductor developers workshop. CDSB 
 
 ## Materials
 
-The materials are organized by instructor in order of first appearance.
+The materials are organized by instructor in order of first appearance. For the full schedule, check [the main website](http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/).
 
 * [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
     - Welcome: [slides](), [R file](), [slides raw]().
