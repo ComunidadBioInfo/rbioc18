@@ -10,6 +10,8 @@ Welcome to the repository for the 2018 R/Bioconductor developers workshop. CDSB 
 
 ## Materials
 
+The materials are organized by instructor in order of first appearance.
+
 * [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
     - Welcome: [slides](), [R file](), [slides raw]().
     - Programming with R - loops: [slides](), [R file](), [slides raw]().
