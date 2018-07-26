@@ -1,4 +1,4 @@
-## Workshop Projects Information
+## Workshop Projects
 
 Here you'll find links to the repositories of projects that will be developed during the workshop and contact information of the main investigator working on the project.
 
