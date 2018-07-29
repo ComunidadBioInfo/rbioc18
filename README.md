@@ -13,11 +13,12 @@ Welcome to the repository for the 2018 R/Bioconductor developers workshop. CDSB 
 The materials are organized by instructor in order of first appearance. For the full schedule, check [the main website](http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/).
 
 * [Alejandro Reyes](http://alejandroreyes.org/)
-    - Welcome: 
+    - Welcome: [slides](https://www.dropbox.com/s/wb9ng2slpbnteab/CDSB-AlejandroReyes_v1.1.pdf?dl=0).
     - Package documentation: [slides](), [R file](), [slides raw]().
 * [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-    - Programming with R - loops, functions, creating a package: https://github.com/amedina-liigh/QuickIntroToR
-* [Leonardo Collado-Torres](http://lcolladotor.github.io): https://speakerdeck.com/lcolladotor/cdsbmexico
+    - Programming with R - loops, functions, creating a package: [git repo](https://github.com/amedina-liigh/QuickIntroToR)
+* [Leonardo Collado-Torres](http://lcolladotor.github.io):
+    - Keynote I: [slides](https://speakerdeck.com/lcolladotor/cdsbmexico)
 * [Daniel Piñero](hhttp://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
     - In replacement of [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/). Talk TBD.
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
