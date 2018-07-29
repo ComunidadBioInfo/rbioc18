@@ -16,10 +16,10 @@ The materials are organized by instructor in order of first appearance. For the 
     - Welcome: [slides](https://www.dropbox.com/s/wb9ng2slpbnteab/CDSB-AlejandroReyes_v1.1.pdf?dl=0).
     - Package documentation: [slides](), [R file](), [slides raw]().
 * [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-    - Programming with R - loops, functions, creating a package: [git repo](https://github.com/amedina-liigh/QuickIntroToR)
+    - Programming with R - loops, functions, creating a package: [git repo](https://github.com/amedina-liigh/QuickIntroToR).
 * [Leonardo Collado-Torres](http://lcolladotor.github.io):
-    - Keynote I: [slides](https://speakerdeck.com/lcolladotor/cdsbmexico)
-* [Daniel Piñero](hhttp://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
+    - Keynote I: [slides](https://speakerdeck.com/lcolladotor/cdsbmexico).
+* [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
     - In replacement of [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/). Talk TBD.
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
     - Version control with git and GitHub: [slides](), [R file](), [slides raw]().
