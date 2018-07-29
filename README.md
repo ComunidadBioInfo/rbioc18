@@ -12,16 +12,17 @@ Welcome to the repository for the 2018 R/Bioconductor developers workshop. CDSB 
 
 The materials are organized by instructor in order of first appearance. For the full schedule, check [the main website](http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/).
 
-* [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-    - Welcome: [slides](), [R file](), [slides raw]().
-    - Programming with R - loops: [slides](), [R file](), [slides raw]().
-    - Programming with R - functions: [slides](), [R file](), [slides raw]().
-    - Programming with R - creating a package: [slides](), [R file](), [slides raw]().
 * [Alejandro Reyes](http://alejandroreyes.org/)
-     - Keynote I with [Leonardo Collado-Torres](http://lcolladotor.github.io): [slides](), [R file](), [slides raw]().
+    - Welcome: 
     - Package documentation: [slides](), [R file](), [slides raw]().
-* [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/)
-    - Genomics of Mexican Domesticated Plants: [slides](), [R file](), [slides raw]().
+* [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
+    - Programming with R - loops, functions, creating a package: https://github.com/amedina-liigh/QuickIntroToR
+* [Leonardo Collado-Torres](http://lcolladotor.github.io): https://speakerdeck.com/lcolladotor/cdsbmexico
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here are my slides for my <a href="https://twitter.com/hashtag/CDSBMexico?src=hash&amp;ref_src=twsrc%5Etfw">#CDSBMexico</a> remote talk tomorrow for day 1 of the &quot;Latin American R/BioConductor Developers Workshop 2018&quot;. 70 slides for ~20 min, I can do this! 💪🏾 Right <a href="https://twitter.com/jtleek?ref_src=twsrc%5Etfw">@jtleek</a> <a href="https://twitter.com/Shannon_E_Ellis?ref_src=twsrc%5Etfw">@Shannon_E_Ellis</a>?<a href="https://t.co/xKh2214YbM">https://t.co/xKh2214YbM</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/teaching?src=hash&amp;ref_src=twsrc%5Etfw">#teaching</a> <a href="https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw">@Bioconductor</a> <a href="https://twitter.com/CDSBMexico?ref_src=twsrc%5Etfw">@CDSBMexico</a> <a href="https://t.co/SULAoPbHeZ">pic.twitter.com/SULAoPbHeZ</a></p>&mdash; 🇲🇽 Dr. Leonardo Collado-Torres (@fellgernon) <a href="https://twitter.com/fellgernon/status/1023665229882961922?ref_src=twsrc%5Etfw">July 29, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* [Daniel Piñero](hhttp://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
+    - In replacement of [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/). Talk TBD.
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
     - Version control with git and GitHub: [slides](), [R file](), [slides raw]().
     - Open source software projects and collaborative development: [slides](), [R file](), [slides raw]().
