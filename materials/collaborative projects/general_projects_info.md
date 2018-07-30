@@ -2,9 +2,6 @@
 
 Here you'll find links to the repositories of projects that will be developed during the workshop and contact information of the main investigator working on the project.
 
-* **rCONABIO**  
-_Responsible_: Alicia Mastretta (amastretta@conabio.gob.mx)   
-_Link to drive_: https://drive.google.com/open?id=1Yh64XkTusgSp7pIzc-yFNXdZw5ZSE8aw   
 
 * **KEGG**   
 _Responsible_: Verónica Jiménez (vjimenez@ibt.unam.mx) and Leticia Vega (leticia.vega@ccadet.unam.mx)  
@@ -22,10 +19,10 @@ _Link to drive_: https://drive.google.com/drive/folders/1wKmHAUCq7OsYugIQI3RvWVl
 _Responsible_: Osbaldo Reséndis (oresendis@inmegen.gob.mx) and Felipe Muñoz (fj.ska.mg@gmail.com)  
 _Link to drive_: https://drive.google.com/open?id=17pCdh0RnrUKxqYljjmeTiamUWeXHJYju  
 
-* **RegulonDB**   
-_Responsible_: Heladia Salgado (heladia@ccg.unam.mx)  
-_Link to drive_: Pending  
-
 * **Cytoscape**  
 _Responsible_: Daniela Ledezma (dledezma@lcg.unam.mx)  
 _Link to drive_: https://drive.google.com/open?id=1zKwLlpOMCAYokVbiECQ8WrihOXRbZ-yT  
+
+* **RegulonDB**   
+_Responsible_: Heladia Salgado (heladia@ccg.unam.mx)  
+_Link to drive_: https://drive.google.com/drive/folders/1mxEAWOqnG7IswGAD2bUZregvDXZde7ov
