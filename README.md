@@ -25,11 +25,12 @@ The materials are organized by instructor in order of first appearance. For the 
     - Version control with git and GitHub: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
     - Open source software projects and collaborative development: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
 * [Martin Morgan](https://www.roswellpark.org/martin-morgan)
-    - Keynote Lecture II: [slides](), [R file](), [slides raw]().
-    - Best practices for writing efficient functions: [slides](), [R file](), [slides raw]().
-    - S4 - system for object oriented programming: [slides](), [R file](), [slides raw]().
-    - Unit testing and R CMD check: [slides](), [R file](), [slides raw]().
-    - Debugging and Parallelization: [slides](), [R file](), [slides raw]().
+    - Keynote Lecture II: 
+    - Best practices for writing efficient functions: 
+    - S4 - system for object oriented programming: 
+    - Unit testing and R CMD check: 
+    - Debugging and Parallelization: 
+    - [git repo](https://github.com/Bioconductor/BiocAdvanced/blob/LatAm-2018/README.md)
 * [Alejandro Ponce-Mendoza](https://github.com/APonce73)
     - Using R-Shiny in Agrobiodiversity: [slides](), [R file](), [slides raw]().
 * [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)
