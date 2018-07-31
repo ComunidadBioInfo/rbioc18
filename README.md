@@ -14,16 +14,16 @@ The materials are organized by instructor in order of first appearance. For the 
 
 * [Alejandro Reyes](http://alejandroreyes.org/)
     - Welcome: [slides](https://www.dropbox.com/s/wb9ng2slpbnteab/CDSB-AlejandroReyes_v1.1.pdf?dl=0).
-    - Package documentation: [slides](), [R file](), [slides raw]().
 * [Leonardo Collado-Torres](http://lcolladotor.github.io):
     - Keynote I: [slides](https://speakerdeck.com/lcolladotor/cdsbmexico).
 * [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
-    - In replacement of [Alicia Mastretta Yanes](http://mastrettayanes-lab.org/). Talk TBD.
-* [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/)
-    - Programming with R - loops, functions, creating a package: [git repo](https://github.com/amedina-liigh/QuickIntroToR).
+    - In replacement of Alicia Mastretta Yanes. Talk TBD.
+* [Alejandra Medina-Rivera, Alejandro Reyes](http://liigh.unam.mx/amedina/)
+    - Programming with R - functions [git repo](https://github.com/amedina-liigh/QuickIntroToR).
+    - Creating a package [git repo] (https://github.com/ComunidadBioInfo/rbioc18/tree/master/materials/package_intro) [package] (https://github.com/areyesq89/DESeq2MDS)
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
-    - Version control with git and GitHub: [slides](), [R file](), [slides raw]().
-    - Open source software projects and collaborative development: [slides](), [R file](), [slides raw]().
+    - Version control with git and GitHub: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
+    - Open source software projects and collaborative development: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
 * [Martin Morgan](https://www.roswellpark.org/martin-morgan)
     - Keynote Lecture II: [slides](), [R file](), [slides raw]().
     - Best practices for writing efficient functions: [slides](), [R file](), [slides raw]().
