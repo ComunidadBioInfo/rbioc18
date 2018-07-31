@@ -32,7 +32,7 @@ The materials are organized by instructor in order of first appearance. For the 
     - Debugging and Parallelization: 
     - [git repo](https://github.com/Bioconductor/BiocAdvanced/blob/LatAm-2018/README.md)
 * [Alejandro Ponce-Mendoza](https://github.com/APonce73)
-    - Using R-Shiny in Agrobiodiversity: [slides](), [R file](), [slides raw]().
+    - Using R-Shiny in Agrobiodiversity: [git repo] (https://github.com/Aponce73).
 * [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)
     - Bioconductor: core package, common objects and extending classes: [slides](), [R file](), [slides raw]().
     - Vignette writing with markdown/BiocStyle: [slides](), [R file](), [slides raw]().
