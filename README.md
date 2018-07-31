@@ -18,7 +18,7 @@ The materials are organized by instructor in order of first appearance. For the 
     - Keynote I: [slides](https://speakerdeck.com/lcolladotor/cdsbmexico).
 * [Daniel Piñero](http://web.ecologia.unam.mx/index.php/investigadores/daniel-pinero)
     - In replacement of Alicia Mastretta Yanes. Talk TBD.
-* [Alejandra Medina-Rivera, Alejandro Reyes](http://liigh.unam.mx/amedina/)
+* [Alejandra Medina-Rivera](http://liigh.unam.mx/amedina/), Alejandro Reyes
     - Programming with R - functions [git repo](https://github.com/amedina-liigh/QuickIntroToR).
     - Creating a package [git repo](https://github.com/ComunidadBioInfo/rbioc18/tree/master/materials/package_intro) [package](https://github.com/areyesq89/DESeq2MDS)
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
