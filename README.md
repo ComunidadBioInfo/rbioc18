@@ -20,7 +20,7 @@ The materials are organized by instructor in order of first appearance. For the 
     - In replacement of Alicia Mastretta Yanes. Talk TBD.
 * [Alejandra Medina-Rivera, Alejandro Reyes](http://liigh.unam.mx/amedina/)
     - Programming with R - functions [git repo](https://github.com/amedina-liigh/QuickIntroToR).
-    - Creating a package [git repo] (https://github.com/ComunidadBioInfo/rbioc18/tree/master/materials/package_intro) [package] (https://github.com/areyesq89/DESeq2MDS)
+    - Creating a package [git repo](https://github.com/ComunidadBioInfo/rbioc18/tree/master/materials/package_intro) [package](https://github.com/areyesq89/DESeq2MDS)
 * [Selene Fernandez-Valverde](https://www.linkedin.com/in/selenefernandez/)
     - Version control with git and GitHub: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
     - Open source software projects and collaborative development: [git repo](https://liz-fernandez.github.io/TIB2018_Git/)
