@@ -34,10 +34,11 @@ The materials are organized by instructor in order of first appearance. For the 
 * [Alejandro Ponce-Mendoza](https://github.com/APonce73)
     - Using R-Shiny in Agrobiodiversity: [git repo](https://github.com/Aponce73).
 * [Benilton Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en)
-    - Bioconductor: core package, common objects and extending classes: [slides](), [R file](), [slides raw]().
-    - Vignette writing with markdown/BiocStyle: [slides](), [R file](), [slides raw]().
-    - Rcpp (Adding C/C++ code to R packages): [slides](), [R file](), [slides raw]().
-    - Keynote Lecture IV: [slides](), [R file](), [slides raw]().
+    - Bioconductor: core package, common objects and extending classes.
+    - Vignette writing with markdown/BiocStyle.
+    - Rcpp (Adding C/C++ code to R packages).
+    - Keynote Lecture IV.
+    - [slides](https://www.dropbox.com/s/rr0qzzz6338pxut/BioconductorIntroDevel.pptx?dl=0)
 * [Teresa Ortíz](http://www.teresa-ortiz.com/eng)
     - RLadies Community Experience: [slides](), [R file](), [slides raw]().
 
